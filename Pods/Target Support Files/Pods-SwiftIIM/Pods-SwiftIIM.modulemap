@@ -1,0 +1,6 @@
+framework module Pods_SwiftIIM {
+  umbrella header "Pods-SwiftIIM-umbrella.h"
+
+  export *
+  module * { export * }
+}
